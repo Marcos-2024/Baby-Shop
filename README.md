@@ -1,30 +1,44 @@
-Grupo 22 -- Python ComisiÛn 23032
+Grupo 22 -- Python Comisi√≥n 23032
 
-Integrantes Originales
+Integrantes Originales:
+
 	Aguilera Franco Mauricio
+	
 	David Vainstube
+	
 	Gabriel Dilacio
-	Percara, Marcos Dami·n
+	
+	Percara Marcos Dami√°n
+	
 
 Nota:
-Debido al abandono y/o ausencia de comunicaciÛn de los integrantes, el trabajo lo fui realizando hasta completarlo solo.
+Debido al abandono y/o ausencia de comunicaci√≥n de los integrantes, el trabajo lo fui realizando hasta completarlo solo.
 
-DescripciÛn:
-Trabajo realizado por: Percara, Marcos Dami·n
+Descripci√≥n:
+Trabajo realizado por: Percara, Marcos Dami√°n
 
-P·gina web de venta de Ropa para Bebes.
-ï	Posee 4 p·ginas html: Home, Productos, Contactos, Quienes Somos
-ï	Se utilizaron etiquetas sem·nticas para estructurar el sitio.
-ï	Posee una estructura HTML maquetada con Flexbox.
-ï	Es responsive.
+P√°gina web de venta de Ropa para Bebes.
+
+‚Ä¢	Posee 4 p√°ginas html: Home, Productos, Contactos, Quienes Somos
+
+‚Ä¢	Se utilizaron etiquetas sem√°nticas para estructurar el sitio.
+
+‚Ä¢	Posee una estructura HTML maquetada con Flexbox.
+
+‚Ä¢	Es responsive.
 
 
-ï	Contiene un formulario de contacto con validaciÛn realizada mediante Javascript. Archivo ìValidaciÛnî
-ï	Se utilizaron los iconos de Email, Whatsapp y de Copyright en el footer
+‚Ä¢	Contiene un formulario de contacto con validaci√≥n realizada mediante Javascript. Archivo ‚ÄúValidaci√≥n‚Äù
+
+‚Ä¢	Se utilizaron los iconos de Email, Whatsapp y de Copyright en el footer
+
 y fuentes font-family: Montserrat, sans-serif.
-ï	Se incorporÛ una animaciÛn en Productos al seleccionar la ropa cambia de color el marco y en Contacto cambia de color y se agranda el botÛn Enviar Formulario
-ï	Se incorporÛ una API (sweet alert 2) en contacto al no completar los campos salta un cartel de Error
-ï	No se utilizÛ Bootstrap
+
+‚Ä¢	Se incorpor√≥ una animaci√≥n en Productos al seleccionar la ropa cambia de color el marco y en Contacto cambia de color y se agranda el bot√≥n Enviar Formulario
+
+‚Ä¢	Se incorpor√≥ una API (sweet alert 2) en contacto al no completar los campos salta un cartel de Error
+
+‚Ä¢	No se utiliz√≥ Bootstrap
 
  
 
