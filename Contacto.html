@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width"> 
+        <title>BabyShop</title>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="Style.css">
+    </head>
+
+    <body>
+        <header>
+            <div class="encabezado">
+                <h1><img class="logo" src="imagenes/5.png"></h1>
+                <nav>
+                    <ul>
+                        <li><a href="Index.html">Home</a></li>
+                        <li><a href="Productos.html">Productos</a></li>
+                        <li><a href="Contacto.html">Contacto</a></li>
+                        <li><a href="Quienes Somos.html">Quienes Somos</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        
+        <div class="caja"> 
+        <main>     
+            <form id="formulario">
+                <fieldset>
+                    <legend><strong>¿Te gusta lo que ves?</strong></legend>
+                    <legend>Suscribite para recibir novedades exclusivas de Baby Shop</legend>
+                </fieldset>
+
+                <label for="nombreapellido">Nombre</label>
+                <input type="text" id="nombreapellido" class="input-padron" required>
+
+                <label for="correoelectronico">Correo Electrónico</label>
+                <input type="email" id="correoelectronico" class="input-padron" required placeholder="email@dominio.com">
+
+                <label for="mensaje">Escríbenos sobre tus preferencias</label>
+                <textarea cols="70" rows="10" id="mensaje" class="input-padron" required></textarea>
+                
+                <input id="btn" type="submit" value="Enviar formulario" class="enviar">
+            </form>
+        </main>
+    </div> 
+        
+        <div class="fondo">
+            <footer> 
+                <img class="logo2"  src="imagenes/2.png">
+                <p class= "info"><strong>Contacto</strong></p>
+                <p class="info"><img class="icon" src="imagenes/Email.png">ventas@babyshop.es</p>
+                <p class= "info"><img class="icon" src="imagenes/Whatsapp.png">(+51) 693 602 970</p>
+                <p class="copyright">&copy Copyright BabyShop - 2023</p>
+            </footer>
+        </div>
+        
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src="./Validacion.js"></script>
+    
+    </body>
+</html>
