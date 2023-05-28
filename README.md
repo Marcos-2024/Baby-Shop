@@ -1,4 +1,4 @@
-Grupo 22 -- Python Comisión 23032
+<b>Grupo 22 -- Python Comisión 23032</b>
 
 Integrantes Originales:
 
@@ -10,12 +10,13 @@ Integrantes Originales:
 	
 	Percara Marcos Damián
 	
+---------------------------------------------------------------------------------------------------------------------------
+<b>Nota:
+Debido al abandono y/o ausencia de comunicación de los integrantes, el trabajo lo fui realizando hasta completarlo solo.</b>
 
-Nota:
-Debido al abandono y/o ausencia de comunicación de los integrantes, el trabajo lo fui realizando hasta completarlo solo.
-
+-----------------------------------------------------------------------------------------------------------------------------
 Descripción:
-Trabajo realizado por: Percara, Marcos Damián
+<b>Trabajo realizado por: Percara, Marcos Damián</b>
 
 Página web de venta de Ropa para Bebes.
 
