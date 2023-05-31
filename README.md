@@ -1,4 +1,6 @@
-<b>Grupo 22 -- Python Comisión 23032</b>
+![1](https://github.com/Marcos-2024/Baby-Shop/assets/123271336/8a158d90-d504-4673-a289-020b5d5118eb)
+
+	Grupo 22 -- Python Comisión 23032
 
 Integrantes Originales:
 
