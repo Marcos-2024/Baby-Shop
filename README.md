@@ -3,7 +3,7 @@
 <b>Grupo 22 -- Python Comisión 23032</b>
 
 Trabajo integrador para el curso Python Front End - Comisión N° 23032.
-El consiste en el desarrollo de una página web de temática libre. <br>
+El trabajo consiste en el desarrollo de una página web de temática libre. <br>
 
 <b>Descripción del Proyecto</b><br>
 Proyecto en desarrollo de una página dedicada a la venta online de ropa para bebes y niños, contiene el HOME con la publicidad sobre el negocio, link a secciones, redes sociales, vídeos, etc., la sección de PRODUCTOS con una muestra del formato de la presentación de los artículos, CONTACTO con los formularios de contacto y campo para las preferencias y QUIENES SOMOS con una breve descripción de la empresa. <br>
