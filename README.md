@@ -30,9 +30,6 @@ Aguilera, Franco Mauricio<br>
 	Gabriel, Dilacio<br>
 	Percara, Marcos Damián<br>
 
-<b>Nota</b><br>
-Debido al abandono y/o ausencia de comunicación de los integrantes, el trabajo fue realizado por: Percara, Marcos Damián. <br>
-
 
 	
 
